@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/3292d09c-473b-4b7e-ac26-95857c2b9ae9" />
 📌 Overview
 
 Cortana 2.0 is a Python-based Virtual Assistant inspired by J.A.R.V.I.S & Microsoft’s Cortana.
