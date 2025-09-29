@@ -1,6 +1,6 @@
 
 
-Contents of .env file:
+Contents of .env file:-
 
 ```
 USER=None
@@ -8,7 +8,7 @@ BOTNAME=Cortana2.0
 EMAIL=None
 PASSWORD=None
 NEWS_API_KEY=None
-OPENWEATHER_APP_ID=None
+OPENWEATHER_APP_ID=None 
 TMDB_API_KEY=None
 ```
 
